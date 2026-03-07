@@ -2,7 +2,6 @@ public class Main {
   public static void main(String[] args) {
     System.out.println("Hello World");
   }
-<<<<<<< Updated upstream
 }
 
 public class SwapNumbers {
@@ -29,6 +28,6 @@ public class SwapNumbers {
         System.out.println("Second number = " + second);
     }
 }
-=======
 new code by dev1 without pull the code}
->>>>>>> Stashed changes
+  we are adding somw more data
+  
